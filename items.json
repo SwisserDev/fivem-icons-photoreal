@@ -5,7 +5,7 @@
   "styleLabel": "Photoreal 3D",
   "version": "1.0",
   "license": "CC0-1.0",
-  "iconCount": 1238,
+  "iconCount": 1235,
   "categories": {
     "food": {
       "label": "Food",
@@ -912,10 +912,6 @@
         {
           "file": "hospital_gown",
           "label": "Hospital Gown"
-        },
-        {
-          "file": "vitamin_bottle",
-          "label": "Vitamin Bottle"
         },
         {
           "file": "antibiotic_pills",
@@ -3481,10 +3477,6 @@
           "label": "Sponge Block"
         },
         {
-          "file": "canvas_tarp_folded",
-          "label": "Folded Tarp"
-        },
-        {
           "file": "plastic_wrap_roll",
           "label": "Plastic Wrap"
         },
@@ -5047,10 +5039,6 @@
         {
           "file": "compass",
           "label": "Compass"
-        },
-        {
-          "file": "map_folded",
-          "label": "Folded Map"
         },
         {
           "file": "whistle",

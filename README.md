@@ -1,8 +1,8 @@
-![1238 photoreal inventory icons for FiveM](preview/hero.png)
+![1235 photoreal inventory icons for FiveM](preview/hero.png)
 
 # FiveM Inventory Icons — Photoreal 3D
 
-1238 inventory item icons for FiveM in one consistent photoreal 3d style,
+1235 inventory item icons for FiveM in one consistent photoreal 3d style,
 on transparent backgrounds, across 27 categories. CC0, so use them for
 anything including paid servers, no credit needed.
 
@@ -12,7 +12,7 @@ Filenames follow the qb-core `shared/items.lua` naming, so most items match an e
 
 | | | |
 | --- | --- | --- |
-| **Everything** | 1238 icons | [`fivem-icons-photoreal-v1.0.zip`](https://github.com/SwisserDev/fivem-icons-photoreal/releases/download/v1.0/fivem-icons-photoreal-v1.0.zip) |
+| **Everything** | 1235 icons | [`fivem-icons-photoreal-v1.0.zip`](https://github.com/SwisserDev/fivem-icons-photoreal/releases/download/v1.0/fivem-icons-photoreal-v1.0.zip) |
 
 Or take single files straight out of [`png-256/`](png-256). No archive, no account.
 
@@ -80,13 +80,13 @@ matching filename.
 </details>
 
 <details>
-<summary><b>Medical</b> (55 icons)</summary>
+<summary><b>Medical</b> (54 icons)</summary>
 
 ![Medical](preview/medical-1.png)
 
 ![Medical](preview/medical-2.png)
 
-`bandage` · `firstaid` · `medkit` · `ifaks` · `painkillers` · `morphine` · `adrenaline_shot` · `blood_bag` · `splint` · `gauze` · `defibrillator` · `stethoscope` · `oxygen_mask` · `tourniquet` · `syringe` · `medical_report` · `antiseptic_wipes` · `rubbing_alcohol` · `iodine_swab` · `surgical_gloves` · `surgical_mask` · `thermometer` · `crutches` · `wheelchair` · `neck_brace` · `arm_sling` · `eye_patch` · `plaster_cast_roll` · `suture_kit` · `scalpel` · `forceps` · `insulin_pen` · `iv_saline_bag` · `hospital_gown` · `vitamin_bottle` · `antibiotic_pills` · `cough_syrup` · `nasal_spray` · `eye_drops` · `burn_gel` · `ice_pack` · `heating_pad` · `medical_scissors` · `x_ray_film` · `hospital_id_bracelet` · `antivenom_vial` · `smelling_salts` · `dental_kit` · `rehydration_salts` · `overdose_reversal_spray` · `medical_tape` · `cotton_balls` · `reflex_hammer` · `paramedic_bag` · `hand_sanitizer`
+`bandage` · `firstaid` · `medkit` · `ifaks` · `painkillers` · `morphine` · `adrenaline_shot` · `blood_bag` · `splint` · `gauze` · `defibrillator` · `stethoscope` · `oxygen_mask` · `tourniquet` · `syringe` · `medical_report` · `antiseptic_wipes` · `rubbing_alcohol` · `iodine_swab` · `surgical_gloves` · `surgical_mask` · `thermometer` · `crutches` · `wheelchair` · `neck_brace` · `arm_sling` · `eye_patch` · `plaster_cast_roll` · `suture_kit` · `scalpel` · `forceps` · `insulin_pen` · `iv_saline_bag` · `hospital_gown` · `antibiotic_pills` · `cough_syrup` · `nasal_spray` · `eye_drops` · `burn_gel` · `ice_pack` · `heating_pad` · `medical_scissors` · `x_ray_film` · `hospital_id_bracelet` · `antivenom_vial` · `smelling_salts` · `dental_kit` · `rehydration_salts` · `overdose_reversal_spray` · `medical_tape` · `cotton_balls` · `reflex_hammer` · `paramedic_bag` · `hand_sanitizer`
 
 </details>
 
@@ -229,11 +229,11 @@ matching filename.
 </details>
 
 <details>
-<summary><b>Materials</b> (40 icons)</summary>
+<summary><b>Materials</b> (39 icons)</summary>
 
 ![Materials](preview/materials.png)
 
-`plastic` · `metalscrap` · `copper` · `aluminum` · `iron` · `steel` · `rubber` · `glass` · `wood_plank` · `cloth` · `leather` · `copper_wire` · `aluminumoxide` · `ironoxide` · `screws` · `fiberglass_sheet` · `resin_block` · `cement_bag` · `epoxy_tube` · `fabric_bolt_canvas` · `wool_bundle` · `cotton_bale` · `denim_roll` · `sawdust_bag` · `tar_bucket` · `gasket_sheet` · `o_ring_pack` · `bearing_metal` · `spring_coil_metal` · `hinge_brass` · `bracket_steel` · `pvc_pipe_section` · `wiring_harness` · `circuit_board_scrap` · `solder_wire_spool` · `fiber_optic_spool` · `sponge_block` · `canvas_tarp_folded` · `plastic_wrap_roll` · `insulation_foam_roll`
+`plastic` · `metalscrap` · `copper` · `aluminum` · `iron` · `steel` · `rubber` · `glass` · `wood_plank` · `cloth` · `leather` · `copper_wire` · `aluminumoxide` · `ironoxide` · `screws` · `fiberglass_sheet` · `resin_block` · `cement_bag` · `epoxy_tube` · `fabric_bolt_canvas` · `wool_bundle` · `cotton_bale` · `denim_roll` · `sawdust_bag` · `tar_bucket` · `gasket_sheet` · `o_ring_pack` · `bearing_metal` · `spring_coil_metal` · `hinge_brass` · `bracket_steel` · `pvc_pipe_section` · `wiring_harness` · `circuit_board_scrap` · `solder_wire_spool` · `fiber_optic_spool` · `sponge_block` · `plastic_wrap_roll` · `insulation_foam_roll`
 
 </details>
 
@@ -309,11 +309,11 @@ matching filename.
 </details>
 
 <details>
-<summary><b>Misc</b> (22 icons)</summary>
+<summary><b>Misc</b> (21 icons)</summary>
 
 ![Misc](preview/misc.png)
 
-`diving_gear` · `umbrella` · `firework` · `wallet` · `keyring` · `rubber_gloves` · `rain_poncho` · `sleeping_bag` · `tent_pack` · `camping_lantern` · `compass` · `map_folded` · `whistle` · `coin_purse` · `pocket_multitool` · `photo_album` · `parachute` · `shopping_bag` · `cardboard_box` · `mason_jar_empty` · `tin_can_empty` · `evidence_bag_small`
+`diving_gear` · `umbrella` · `firework` · `wallet` · `keyring` · `rubber_gloves` · `rain_poncho` · `sleeping_bag` · `tent_pack` · `camping_lantern` · `compass` · `whistle` · `coin_purse` · `pocket_multitool` · `photo_album` · `parachute` · `shopping_bag` · `cardboard_box` · `mason_jar_empty` · `tin_can_empty` · `evidence_bag_small`
 
 </details>
 

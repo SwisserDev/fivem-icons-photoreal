@@ -1,6 +1,6 @@
 [UPLOAD hero.png HERE: drag the file in, do not paste a link, or the topic gets no preview thumbnail]
 
-1238 inventory icons in one consistent photoreal 3d style, on transparent backgrounds, across 27 categories. Free for everyone, CC0, no credit and no strings. Use them on a paid server, edit them, repackage them, whatever you want.
+1235 inventory icons in one consistent photoreal 3d style, on transparent backgrounds, across 27 categories. Free for everyone, CC0, no credit and no strings. Use them on a paid server, edit them, repackage them, whatever you want.
 
 This is one of 8 styles built from the same catalogue, so you can pick whichever matches your inventory UI.
 
@@ -31,7 +31,7 @@ Filenames follow the qb-core `shared/items.lua` naming, so most items line up wi
 
 ![Alcohol](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/alcohol.png)
 
-**Medical** · 55
+**Medical** · 54
 
 ![Medical](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/medical-1.png)
 ![Medical](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/medical-2.png)
@@ -98,7 +98,7 @@ Filenames follow the qb-core `shared/items.lua` naming, so most items line up wi
 
 ![Security](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/security.png)
 
-**Materials** · 40
+**Materials** · 39
 
 ![Materials](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/materials.png)
 
@@ -134,7 +134,7 @@ Filenames follow the qb-core `shared/items.lua` naming, so most items line up wi
 
 ![Valuables](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/valuables.png)
 
-**Misc** · 22
+**Misc** · 21
 
 ![Misc](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/misc.png)
 
@@ -155,6 +155,6 @@ The icons are AI generated. Saying so up front since people ask.
 | Assets are accessible | Yes |
 | Subscription-based | No |
 | Polygons (model and LOD) | N/A, 2D assets |
-| Texture size and amount | 256x256 and 100x100, 1238 icons in 3 formats |
+| Texture size and amount | 256x256 and 100x100, 1235 icons in 3 formats |
 | Requirements & dependencies | None |
 | Support | Yes, via GitHub issues |
