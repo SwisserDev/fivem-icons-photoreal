@@ -18,125 +18,125 @@ Filenames follow the qb-core `shared/items.lua` naming, so most items line up wi
 
 **Food** · 100
 
-![Food](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/food-1.png)
-![Food](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/food-2.png)
-![Food](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/food-3.png)
+![Food](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/food-1.png)
+![Food](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/food-2.png)
+![Food](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/food-3.png)
 
 **Drink** · 50
 
-![Drink](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/drink-1.png)
-![Drink](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/drink-2.png)
+![Drink](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/drink-1.png)
+![Drink](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/drink-2.png)
 
 **Alcohol** · 38
 
-![Alcohol](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/alcohol.png)
+![Alcohol](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/alcohol.png)
 
 **Medical** · 55
 
-![Medical](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/medical-1.png)
-![Medical](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/medical-2.png)
+![Medical](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/medical-1.png)
+![Medical](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/medical-2.png)
 
 **Drugs** · 53
 
-![Drugs](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/drugs-1.png)
-![Drugs](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/drugs-2.png)
+![Drugs](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/drugs-1.png)
+![Drugs](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/drugs-2.png)
 
 **Smoking** · 22
 
-![Smoking](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/smoking.png)
+![Smoking](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/smoking.png)
 
 **Cooking Ingredients** · 45
 
-![Cooking Ingredients](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/cooking_ingredients-1.png)
-![Cooking Ingredients](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/cooking_ingredients-2.png)
+![Cooking Ingredients](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/cooking_ingredients-1.png)
+![Cooking Ingredients](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/cooking_ingredients-2.png)
 
 **Farming Produce** · 34
 
-![Farming Produce](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/farming_produce.png)
+![Farming Produce](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/farming_produce.png)
 
 **Tools** · 68
 
-![Tools](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/tools-1.png)
-![Tools](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/tools-2.png)
+![Tools](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/tools-1.png)
+![Tools](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/tools-2.png)
 
 **Ammunition** · 38
 
-![Ammunition](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/ammo.png)
+![Ammunition](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/ammo.png)
 
 **Weapon Parts** · 32
 
-![Weapon Parts](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/weapon_parts.png)
+![Weapon Parts](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/weapon_parts.png)
 
 **Police & Evidence** · 55
 
-![Police & Evidence](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/police-1.png)
-![Police & Evidence](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/police-2.png)
+![Police & Evidence](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/police-1.png)
+![Police & Evidence](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/police-2.png)
 
 **EMS** · 44
 
-![EMS](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/ems-1.png)
-![EMS](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/ems-2.png)
+![EMS](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/ems-1.png)
+![EMS](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/ems-2.png)
 
 **Electronics** · 59
 
-![Electronics](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/tech-1.png)
-![Electronics](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/tech-2.png)
+![Electronics](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/tech-1.png)
+![Electronics](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/tech-2.png)
 
 **Documents** · 40
 
-![Documents](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/documents.png)
+![Documents](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/documents.png)
 
 **Keys** · 25
 
-![Keys](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/keys.png)
+![Keys](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/keys.png)
 
 **Bags** · 25
 
-![Bags](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/bags.png)
+![Bags](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/bags.png)
 
 **Security** · 25
 
-![Security](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/security.png)
+![Security](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/security.png)
 
 **Materials** · 40
 
-![Materials](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/materials.png)
+![Materials](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/materials.png)
 
 **Crafting** · 34
 
-![Crafting](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/crafting.png)
+![Crafting](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/crafting.png)
 
 **Vehicle Parts** · 45
 
-![Vehicle Parts](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/vehicle_parts-1.png)
-![Vehicle Parts](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/vehicle_parts-2.png)
+![Vehicle Parts](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/vehicle_parts-1.png)
+![Vehicle Parts](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/vehicle_parts-2.png)
 
 **Vehicle Tuning** · 40
 
-![Vehicle Tuning](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/vehicle_tuning.png)
+![Vehicle Tuning](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/vehicle_tuning.png)
 
 **Mining** · 68
 
-![Mining](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/mining-1.png)
-![Mining](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/mining-2.png)
+![Mining](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/mining-1.png)
+![Mining](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/mining-2.png)
 
 **Fishing** · 75
 
-![Fishing](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/fishing-1.png)
-![Fishing](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/fishing-2.png)
+![Fishing](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/fishing-1.png)
+![Fishing](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/fishing-2.png)
 
 **Hunting** · 75
 
-![Hunting](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/hunting-1.png)
-![Hunting](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/hunting-2.png)
+![Hunting](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/hunting-1.png)
+![Hunting](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/hunting-2.png)
 
 **Valuables** · 31
 
-![Valuables](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/valuables.png)
+![Valuables](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/valuables.png)
 
 **Misc** · 22
 
-![Misc](https://raw.githubusercontent.com/SwisserDev/icon-previews/main/photoreal/misc.png)
+![Misc](https://raw.githubusercontent.com/SwisserDev/fivem-icons-photoreal/main/preview/misc.png)
 
 ## The other styles
 
